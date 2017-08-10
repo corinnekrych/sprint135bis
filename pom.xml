@@ -160,7 +160,7 @@
             <resources>
               <labels>
                 <all>
-                  <space>sprint135</space>
+                  <space>SPACE_WITH_UNDERSCORE</space>
                 </all>
               </labels>
             </resources>
